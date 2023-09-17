@@ -1,0 +1,38 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "Double XP",
+            "displaypriority": 6,
+            "enddate": 1694314800,
+            "isseasonal": false,
+            "name": "Double XP",
+            "specialevent": 0,
+            "startdate": 1694142000
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Double Skill",
+            "displaypriority": 6,
+            "enddate": 1694919600,
+            "isseasonal": false,
+            "name": "Double Skill",
+            "specialevent": 0,
+            "startdate": 1694746800
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Ferumbras is returning",
+            "displaypriority": 3,
+            "enddate": 1694746800,
+            "isseasonal": false,
+            "name": "Raid Ferumbras",
+            "specialevent": 0,
+            "startdate": 1694746800
+        }
+    ],
+    "lastupdatetimestamp": 1694538220
+}
